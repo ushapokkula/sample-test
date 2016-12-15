@@ -1,0 +1,3 @@
+#default: --format pretty  --format html --out reports/test_report<%= ENV['TEST_ENV_NUMBER'] %>.html -x --no-source DRIVER=debug
+
+default: --format pretty  --format html  --out reports/test_report.html DRIVER=firefox

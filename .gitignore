@@ -1,0 +1,7 @@
+*.json
+.idea/**
+*.iml
+*.png
+*.html
+
+
